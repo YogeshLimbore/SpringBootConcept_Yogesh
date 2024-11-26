@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "phone.title",
+    "type": "java.lang.String",
+    "description": "A description for 'phone.title'"
+  },
+  {
+    "name": "phone.description",
+    "type": "java.lang.String",
+    "description": "A description for 'phone.description'"
+  },
+  {
+    "name": "phone.model",
+    "type": "java.lang.String",
+    "description": "A description for 'phone.model'"
+  },
+  {
+    "name": "aboutus.title",
+    "type": "java.lang.String",
+    "description": "A description for 'aboutus.title'"
+  },
+  {
+    "name": "aboutus.mission",
+    "type": "java.lang.String",
+    "description": "A description for 'aboutus.mission'"
+  },
+  {
+    "name": "aboutus.description",
+    "type": "java.lang.String",
+    "description": "A description for 'aboutus.description'"
+  }
+]}
