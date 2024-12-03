@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login Page</title>
+  <link rel="stylesheet" href="/login.css"></link>
+  <script src="/LoginPage.js"></script>
+</head>
+<body>
+<div class="login-container">
+		
+	<form id = "LoginID" onsubmit="handleLogin(event)">	
+      <h2>Login</h2>
+      <label for="username">UserName</label>
+      <br>
+      <input type="text" id="username" name="username" required>
+      <br>
+      <label for="password">PassWord</label>
+      <br>
+      <input type="password" id="password" name="password" required>
+      <br>
+      <button type="submit">Login</button>
+      <br>
+      <a href="#" class="forgot-password">Forgot Password</a>
+      
+      </form>
+      <p id="responseMessage"></p>
+      
+</div>
+</body>
+</html>
